@@ -10,7 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-    int hallo = 2;
-        hallo = 7;
     }
 }
